@@ -7,4 +7,36 @@
         width: 90%;
         margin: 0;
     }
+
+    /*Página Recuperar senha*/
+
+    .lado-direito-recuperar-senha{
+        margin: 0;
+        width: 100%;
+    }
+
+    /*Página Criar conta*/
+    .lado-direito-criar-conta{
+        margin: 5%;
+        width: 100%;
+    }
+
+    /*Página Senha recuperada*/
+    .container-senha-recuperada{
+        margin-top: 120px;
+    }
+
+    .container-senha-recuperada img{
+        width: 100px;
+    }
+
+    .container-senha-recuperada h1{
+        font-size: 35px;
+    }
+
+    /*Página Cadastrado*/
+    .container-cadastrado{
+        flex: 100%;
+        margin-top: 10%;
+    }
 }
